@@ -9,7 +9,7 @@ export const siteInfo = {
 
 export const socialLinks = {
   alibaba: "https://xinjiuyuan.en.alibaba.com",
-  instagram: "https://https://www.instagram.com/missppsmile",
+  instagram: "https://www.instagram.com/missppsmile",
   tiktok: "https://www.tiktok.com/@ppsmile_knit",
   linkedin: "https://www.linkedin.com/in/jason-d-a42753227/",
 };
