@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 675" role="img" aria-labelledby="title desc">
+  <title id="title">Women's loungewear placeholder</title>
+  <desc id="desc">Abstract soft lounge set with ribbed texture.</desc>
+  <rect width="900" height="675" fill="#fbfaf6"/>
+  <path d="M216 180h256l48 88-56 44v218H224V312l-56-44z" fill="#b96f50"/>
+  <path d="M548 208h92l26 336H536zM672 208h92l88 336H702z" fill="#d7b56d"/>
+  <g stroke="#fbfaf6" stroke-opacity=".55" stroke-width="9">
+    <path d="M260 230v242M306 230v242M352 230v242M398 230v242"/>
+  </g>
+</svg>

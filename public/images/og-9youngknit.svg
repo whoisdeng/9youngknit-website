@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">9Young Knit B2B garment factory showcase</title>
+  <desc id="desc">Open graph image for custom knitwear and garment manufacturing.</desc>
+  <rect width="1200" height="630" fill="#fbfaf6"/>
+  <rect x="72" y="72" width="1056" height="486" rx="28" fill="#17201c"/>
+  <circle cx="990" cy="150" r="130" fill="#d7b56d" opacity=".45"/>
+  <circle cx="180" cy="520" r="150" fill="#2c7580" opacity=".45"/>
+  <text x="126" y="220" fill="#ffffff" font-family="Arial, sans-serif" font-size="74" font-weight="700">9Young Knit</text>
+  <text x="126" y="302" fill="#d7b56d" font-family="Arial, sans-serif" font-size="34" font-weight="700">Custom Knitwear &amp; Garment Factory</text>
+  <text x="126" y="378" fill="#ffffff" opacity=".72" font-family="Arial, sans-serif" font-size="28">OEM/ODM apparel manufacturing for overseas B2B buyers</text>
+  <g transform="translate(790 290)">
+    <path d="M60 36h210l42 62-38 36-30-18v154H86V116l-30 18-38-36z" fill="#fbfaf6"/>
+    <path d="M135 36c24 34 60 50 90 0" fill="none" stroke="#2c7580" stroke-width="12"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 675" role="img" aria-labelledby="title desc">
+  <title id="title">Streetwear collections placeholder</title>
+  <desc id="desc">Abstract streetwear capsule with jacket, T-shirt, and pants.</desc>
+  <rect width="900" height="675" fill="#eef0ea"/>
+  <rect x="104" y="170" width="210" height="330" rx="18" fill="#17201c"/>
+  <path d="M172 170l37 70 37-70" fill="none" stroke="#d7b56d" stroke-width="16"/>
+  <path d="M360 210l86-58 48 46h132l48-46 86 58-54 88-44-18v212H458V280l-44 18z" fill="#2c7580"/>
+  <path d="M620 394h88l36 140H628zM734 394h88v140H720z" fill="#b96f50"/>
+</svg>

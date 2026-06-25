@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 675" role="img" aria-labelledby="title desc">
+  <title id="title">T-shirts and shorts sets placeholder</title>
+  <desc id="desc">Abstract T-shirt and shorts set.</desc>
+  <rect width="900" height="675" fill="#f7f2e8"/>
+  <path d="M116 210l122-80 66 62h180l66-62 122 80-82 132-58-28v186H256V314l-58 28z" fill="#17201c"/>
+  <path d="M322 192c32 30 98 30 130 0" fill="none" stroke="#d7b56d" stroke-width="16"/>
+  <path d="M564 420h98l20 112h-118zM692 420h98v112H672z" fill="#2c7580"/>
+</svg>

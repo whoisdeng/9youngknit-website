@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 675" role="img" aria-labelledby="title desc">
+  <title id="title">Hoodies and sweatshirts placeholder</title>
+  <desc id="desc">Abstract hoodie with pocket and drawcords.</desc>
+  <rect width="900" height="675" fill="#eef0ea"/>
+  <path d="M298 176c16-84 288-84 304 0l82 70v322H216V246z" fill="#2c7580"/>
+  <path d="M318 196c42 60 222 60 264 0" fill="none" stroke="#fbfaf6" stroke-width="22" stroke-linecap="round"/>
+  <path d="M350 402h200l-38 86H388z" fill="#fbfaf6" opacity=".72"/>
+  <path d="M402 248v112M498 248v112" stroke="#fbfaf6" stroke-width="10" stroke-linecap="round"/>
+</svg>
