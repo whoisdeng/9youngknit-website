@@ -2,16 +2,16 @@ export const siteInfo = {
   name: "9Young Knit",
   domain: "9youngknit.com",
   email: "sales@9youngknit.com",
-  whatsappNumber: "8613800000000",
-  whatsappDisplay: "+86 138 0000 0000",
+  whatsappNumber: "8613392381181",
+  whatsappDisplay: "+86 133 9238 1181",
   location: "China garment manufacturing partner for overseas buyers",
 };
 
 export const socialLinks = {
-  alibaba: "https://example.com/alibaba-store",
-  instagram: "https://example.com/instagram",
-  tiktok: "https://example.com/tiktok",
-  linkedin: "https://example.com/linkedin",
+  alibaba: "https://xinjiuyuan.en.alibaba.com",
+  instagram: "https://https://www.instagram.com/missppsmile",
+  tiktok: "https://www.tiktok.com/@ppsmile_knit",
+  linkedin: "https://https://www.linkedin.com/in/jason-d-a42753227/",
 };
 
 export const defaultWhatsAppMessage =
