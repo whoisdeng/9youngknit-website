@@ -11,7 +11,7 @@ export const socialLinks = {
   alibaba: "https://xinjiuyuan.en.alibaba.com",
   instagram: "https://https://www.instagram.com/missppsmile",
   tiktok: "https://www.tiktok.com/@ppsmile_knit",
-  linkedin: "https://https://www.linkedin.com/in/jason-d-a42753227/",
+  linkedin: "https://www.linkedin.com/in/jason-d-a42753227/",
 };
 
 export const defaultWhatsAppMessage =
